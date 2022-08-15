@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/good-read/static/css/main.734ee198.css",
+    "main.js": "/good-read/static/js/main.616ddbc4.js",
+    "index.html": "/good-read/index.html",
+    "main.734ee198.css.map": "/good-read/static/css/main.734ee198.css.map",
+    "main.616ddbc4.js.map": "/good-read/static/js/main.616ddbc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734ee198.css",
+    "static/js/main.616ddbc4.js"
+  ]
+}
